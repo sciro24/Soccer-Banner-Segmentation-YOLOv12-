@@ -21,16 +21,16 @@ Il progetto e strutturato in 7 notebook numerati, ideati per essere eseguiti seq
 Di seguito sono riportati i risultati visivi chiave e i relativi dati derivanti dallo sviluppo del progetto:
 
 ### Esempio Dataset YOLO
-![Esempio Dataset YOLO](assets/esempio_dataset_yolo.jpg)
+![Esempio Dataset YOLO](assets/esempio_dataset_yolo.png)
 
 ### Esempio Dataset SAM
-![Esempio Dataset SAM](assets/esempio_dataset_sam.jpg)
+![Esempio Dataset SAM](assets/esempio_dataset_sam.png)
 
 ### Metriche di Detection YOLO
-![Metriche di Detection YOLO](assets/metriche_detection_yolo.jpg)
+![Metriche di Detection YOLO](assets/metriche_detection_yolo.png)
 
 ### Risultato Intera Pipeline
-![Risultato Intera Pipeline](assets/risultato_intera_pipeline.jpg)
+![Risultato Intera Pipeline](assets/risultato_intera_pipeline.png)
 
 ## Struttura del Repository
 

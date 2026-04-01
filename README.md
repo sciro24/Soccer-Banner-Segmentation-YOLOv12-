@@ -18,7 +18,7 @@ Il progetto e strutturato in 7 notebook numerati, ideati per essere eseguiti seq
 
 ## Esempi Visivi e Risultati
 
-Di seguito sono riportati i risultati visivi chiave e i relativi dati derivanti dallo sviluppo del progetto (ricorda di sostituire le immagini generiche posizionando i tuoi file corretti nella cartella `assets/`):
+Di seguito sono riportati i risultati visivi chiave e i relativi dati derivanti dallo sviluppo del progetto:
 
 ### Esempio Dataset YOLO
 ![Esempio Dataset YOLO](assets/esempio_dataset_yolo.jpg)

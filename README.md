@@ -16,6 +16,22 @@ Il progetto e strutturato in 7 notebook numerati, ideati per essere eseguiti seq
 6. **6_INFERENCE.ipynb:** Costituisce il cuore dell'applicazione pratica, permettendo l'esecuzione della pipeline completa. Elabora componenti multimediali di input (frame spaziali), consolidando i rilevamenti ed applicando l'effetto "green screen" ai banner evidenziati, preservando fedelmente i giocatori in sovrapposizione.
 7. **7_EVALUATION.ipynb:** Analizza oggettivamente i risultati della pipeline integrando metriche di valutazione come Intersection over Union (IoU), Precision e Recall, al fine di determinare l'efficienza della maschera complessiva e dell'esclusione target.
 
+## Esempi Visivi e Risultati
+
+Di seguito sono riportati i risultati visivi chiave e i relativi dati derivanti dallo sviluppo del progetto (ricorda di sostituire le immagini generiche posizionando i tuoi file corretti nella cartella `assets/`):
+
+### Esempio Dataset YOLO
+![Esempio Dataset YOLO](assets/esempio_dataset_yolo.jpg)
+
+### Esempio Dataset SAM
+![Esempio Dataset SAM](assets/esempio_dataset_sam.jpg)
+
+### Metriche di Detection YOLO
+![Metriche di Detection YOLO](assets/metriche_detection_yolo.jpg)
+
+### Risultato Intera Pipeline
+![Risultato Intera Pipeline](assets/risultato_intera_pipeline.jpg)
+
 ## Struttura del Repository
 
 - I file nella radice principale `*.ipynb` rappresentano le fasi di esecuzione del codice (EDA, Preprocessing, YOLO, SAM, YOLO-Seg, Inferenza e Valutazione).

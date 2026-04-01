@@ -1,0 +1,45 @@
+# Ambienti Python / Script
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+lib/
+lib64/
+bin/
+Include/
+
+# Jupyter Notebook specifici
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Dati specifici del sistema operativo (macOS)
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Cache o file utente Python
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# File specifici di progetto
+# Si escludono la radice dei media, dei modelli pesanti salvati o dell'inferenza generata.
+project-sbs/datasets/
+project-sbs/model_weights/
+project-sbs/output/
+project-sbs/runs/
+kaggle.json
+
+# File esportati e media 
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
